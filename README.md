@@ -1,5 +1,8 @@
-#Discord GPT Bot
+# Discord GPT Bot
 
+> **Atenção:** Este repositório foi migrado da minha conta antiga [@Theus-Alves](https://github.com/Theus-Alves), da qual perdi acesso após problemas com 2FA após ser hackeado. O projeto é de minha autoria e está sendo mantido aqui para fins de portfólio.
+
+---
 
 
 Status: Projeto em desenvolvimento
@@ -8,42 +11,42 @@ Tecnologias: Python · Discord.py · OpenAI API
 
 ---
 
-Sobre o Projeto
+## Sobre o Projeto:
 
-Este projeto é uma iniciativa para integrar a tecnologia da OpenAI ao Discord através da biblioteca discord.py. O objetivo principal foi criar um bot inteligente capaz de responder em tempo real aos usuários de um servidor Discord, utilizando os recursos do ChatGPT.
-
-
----
-
-Funcionalidades
-
-Respostas em tempo real diretamente no canal do Discord.
-
-Integração com a API da OpenAI para geração de texto com inteligência artificial.
-
-Uso da biblioteca Discord.py para conexão e gerenciamento do bot.
-
-Primeira versão funcional implementada com comandos básicos e comportamento conversacional.
-
+ - Este projeto é uma iniciativa para integrar a tecnologia da OpenAI ao Discord através da biblioteca discord.py. O objetivo principal foi criar um bot inteligente capaz de responder em tempo real aos usuários de um servidor Discord, utilizando os recursos do ChatGPT.
 
 
 ---
 
-Melhorias Futuras
+## Funcionalidades:
 
-Ajustes no prompt e contexto das conversas para melhorar a naturalidade das respostas.
+ - Respostas em tempo real diretamente no canal do Discord.
 
-Integração com bancos de dados para armazenar histórico de interações.
+ - Integração com a API da OpenAI para geração de texto com inteligência artificial.
 
-Painel de controle para gerenciar comandos e comportamento do bot.
+ - Uso da biblioteca Discord.py para conexão e gerenciamento do bot.
 
-Suporte a múltiplos canais com configurações independentes.
+ - Primeira versão funcional implementada com comandos básicos e comportamento conversacional.
 
 
 
 ---
 
-Como usar
+## Melhorias Futura: 
+
+ - Ajustes no prompt e contexto das conversas para melhorar a naturalidade das respostas.
+
+ - Integração com bancos de dados para armazenar histórico de interações.
+
+ - Painel de controle para gerenciar comandos e comportamento do bot.
+
+ - Suporte a múltiplos canais com configurações independentes.
+
+
+
+---
+
+## Como usar
 
 1. Clone o repositório e instale as dependências:
 
@@ -67,13 +70,13 @@ python bot.py
 
 ---
 
-Aviso
+## Aviso:
 
 Este projeto ainda está em desenvolvimento e pode conter bugs ou limitações. Feedbacks são bem-vindos!
 
 
 ---
 
-Autor
+## Autor
 
-Feito por Matheus Alve.
+Feito por Matheus Alves.
